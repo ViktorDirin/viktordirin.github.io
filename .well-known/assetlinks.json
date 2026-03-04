@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.viktordirin.twa",
+            "sha256_cert_fingerprints": [
+                "DA:83:2B:C7:36:FC:A8:22:FB:73:38:2F:9F:16:B1:9A:36:A6:98:A8:F2:6C:EB:29:FB:EE:4A:0C:55:E4:77:90"
+            ]
+        }
+    }
+]
